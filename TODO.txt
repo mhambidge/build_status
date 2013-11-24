@@ -1,0 +1,6 @@
+- used shared code between eth and xbee
+- instructions for eth
+- instructions for xbee
+- how to test against jenkins
+- hardware list
+- software list and instructions

@@ -1,0 +1,46 @@
+===============================================================================
+Description
+===============================================================================
+
+TODO
+
+===============================================================================
+Index
+===============================================================================
+
+TODO
+
+===============================================================================
+Parts List
+===============================================================================
+The following parts are just one way to cobble everything together using off
+the shelf parts using protyping boards and such. You can, of course, use 
+less expensive parts such as the Arduino Fio.
+
+- Arduino Uno microcontroller board http://arduino.cc/en/Main/arduinoBoardUno
+- BlinkM MaxM Ultrabright Smart LED (yes, these things are darn bright) 
+  http://thingm.com/products/blinkm-maxm.html. This is just a starting point.
+  Adventurous makers can experiment with traffic lights, light strips, etc.
+- USB cable (TODO: type)
+- Power Adapter (optionally you can try using power over ethernet if you
+  are using Ethernet for communications)
+
+If you plan on using Ethernet for communications:
+
+- Arduino Ethernet Shield http://arduino.cc/en/Main/ArduinoEthernetShield
+- Ethernet cable
+
+If you plan on using Xbee for communications:
+TODO
+
+===============================================================================
+Setup
+===============================================================================
+
+TODO
+
+===============================================================================
+Testing with Jenkins
+===============================================================================
+
+TODO
